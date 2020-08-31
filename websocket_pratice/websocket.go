@@ -74,7 +74,7 @@ func setuproutes() {
 }
 
 func main() {
-  // fmt.Println("Hello World")
+  fmt.Println("Hello World")
 
 	// Setup the routes
 	setuproutes()
